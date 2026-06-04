@@ -1,0 +1,26 @@
+{
+  "serverName": "Mirage City Roleplay",
+  "serverIp": "YOUR_SERVER_IP",
+  "serverPort": 7777,
+  "discordUrl": "https://discord.gg/YOURINVITE",
+  "websiteUrl": "https://yourwebsite.com",
+
+  "maintenanceMode": false,
+  "maintenanceMessage": "Server is currently under maintenance. Please try again later.",
+
+  "dataVersion": 1,
+  "dataUrl": "https://github.com/USERNAME/REPO/releases/download/v1.0/mirage-data-v1.zip",
+  "dataSize": "1.8GB",
+
+  "apkVersionCode": 1,
+  "apkVersionName": "1.0.0",
+  "apkUrl": "https://github.com/USERNAME/REPO/releases/download/v1.0/mirage-launcher-v1.apk",
+  "forceUpdate": false,
+
+  "newsTitle": "Mirage City Beta Test",
+  "newsMessage": "Welcome to Mirage City Roleplay beta launcher. Download the required game data before playing.",
+
+  "launcherTitle": "Mirage City Launcher",
+  "playButtonText": "Play Now",
+  "downloadButtonText": "Download Game Data"
+}
